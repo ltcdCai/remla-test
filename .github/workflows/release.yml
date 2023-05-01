@@ -27,3 +27,7 @@ jobs:
           docker build --tag $IMG:latest .
           docker push --all-tags $IMG
       
+
+
+
+
